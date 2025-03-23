@@ -24,21 +24,6 @@ As transações fraudulentas são um desafio crescente para empresas de fintech.
 - **Device_Used**: Dispositivo utilizado para a transação (categórico)
 - **Location**: Localização da transação (categórico)
 
-### Rótulo:
-- **Fraudulent**: Indica se a transação é fraudulenta (1) ou legítima (0) (int)
-
----
-
-## 🚀 Casos de Uso
-
-Este dataset pode ser utilizado para:
-
-1. **Treinar modelos de machine learning** para detectar transações fraudulentas.
-2. **Analisar padrões de fraude** em transações financeiras.
-3. **Otimizar estratégias de prevenção de fraudes** com base em insights obtidos.
-
----
-
 ## 🔧 Pré-processamento Realizado
 
 Para garantir a qualidade dos dados, foram realizadas as seguintes etapas de pré-processamento:
